@@ -12,7 +12,7 @@ import java.util.Arrays;
  * @author hp
  *
  */
-public class Fibonacci {
+public class Task1 {
 
 	// get the n value of the Fibonacci series
 	public static int getFibonacci(int n) {
