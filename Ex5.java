@@ -13,7 +13,7 @@ import java.util.Scanner;
 public class Ex5 {
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
-		//get the total number of seconds
+		
 		System.out.print("Input the total number of seconds: ");
 		int second = input.nextInt();
 		//convert to hours
